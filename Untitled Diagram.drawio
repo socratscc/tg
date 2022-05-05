@@ -1,1 +1,258 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T03:57:36.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" version="17.5.0" etag="enKhhCXrk_-uZiGATjDM" type="github"><diagram id="kXL66cv_u4CMS8DT0YEe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-05T09:01:08.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="43ev5IuOFmm0DCq4IPmm" version="17.5.0" type="github">
+  <diagram id="kXL66cv_u4CMS8DT0YEe" name="Page-1">
+    <mxGraphModel dx="2123" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-1" target="jaihn0EKF0fuKa9CYaYA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-1" value="统一下发通知（含二维码）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="408.12" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0D0D;fontSize=13;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-2" target="jaihn0EKF0fuKa9CYaYA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-2" value="考生扫码 访问报名页面，填写基础信息&lt;br style=&quot;font-size: 13px;&quot;&gt;（二维码是用）&lt;br style=&quot;font-size: 13px;&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="355" y="110" width="276.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;fontSize=13;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-3" target="jaihn0EKF0fuKa9CYaYA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-3" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;进入一财报名页面&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;1、需要填写手机号码注册&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;2、获取验证码注册&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-5" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#ff0d0d&quot; style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;text-align: center ; font-size: 15px&quot;&gt;需要讨论下报名后数据筛选的问题&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#ff0d0d&quot; style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;text-align: center ; font-size: 15px&quot;&gt;会不会有不符合情况的人？&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="55" width="291.87" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-7" value="1、填写手机号&lt;br style=&quot;font-size: 13px;&quot;&gt;2、填写姓名&lt;br style=&quot;font-size: 13px;&quot;&gt;3、填写工作单位&lt;br style=&quot;font-size: 13px;&quot;&gt;4、填写身份证信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0D0D;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="631.25" y="295" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;fontSize=13;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-8" target="jaihn0EKF0fuKa9CYaYA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-8" value="填写报名信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0D0D;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="433.13" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;fontSize=13;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-10" target="jaihn0EKF0fuKa9CYaYA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-10" value="跳转报名成功&lt;br style=&quot;font-size: 13px;&quot;&gt;及后续培训注意事项&lt;br style=&quot;font-size: 13px;&quot;&gt;并提示会在之后2天内收到考试短信" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="415.64" y="390" width="154.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-11" value="1、页面提示用户去访问bioshanghai公众号&lt;br style=&quot;font-size: 13px;&quot;&gt;2、提示用户访问公众号后，回复“培训”关键词，获取培训课程。&lt;br style=&quot;font-size: 13px;&quot;&gt;3、提示2天内会收到带有考试链接的短信" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0D0D;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="631.25" y="395" width="266.88" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-12" value="&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;1、报名页上有报名须知，注意事项等&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;2、是否要加隐私免责等内容&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0D0D;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="618.13" y="225" width="236.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-13" value="报名结束" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="433.13" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-14" value="页面文字：感谢报名参与！&lt;br style=&quot;font-size: 13px;&quot;&gt;请认真观看培训视频，参与培训答疑。&lt;br style=&quot;font-size: 13px;&quot;&gt;2天内会收到考试链接短信。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0D0D;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="631.25" y="505" width="266.88" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-21" value="&lt;h1&gt;考试相关信息&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;报名时间：5月6日 - 8日&amp;nbsp; （新）&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;培训时间：5月9日 - 11日 （新）&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;考试时间：5月12日 14:00 - 18:00 &lt;/font&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;（拟）&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-22" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;考生数据统计&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;1、考生的报名数据，最终统计报名人数，信息完整情况（如手机号码或身份证无效的）&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;2、统计时间，每天统计还是最终一起统计？&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;3、最后要给所有报名成功的，发送考试链接短信。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="10" y="217.5" width="280" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-23" value="报名考生访问&lt;br&gt;微信公众号" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="730" width="145.01" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-24" target="jaihn0EKF0fuKa9CYaYA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-24" value="1、关注公众号&lt;br style=&quot;font-size: 14px;&quot;&gt;2、收到关注后的推送文章。&lt;font color=&quot;#ff0d0d&quot; style=&quot;font-size: 14px;&quot;&gt;（推文1）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="215" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-25" target="jaihn0EKF0fuKa9CYaYA-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-25" value="1、进入公众号&lt;br style=&quot;font-size: 14px;&quot;&gt;2、回复关键词“培训”" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="453" y="840" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-26" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0.405;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-23" target="jaihn0EKF0fuKa9CYaYA-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="810" as="sourcePoint" />
+            <mxPoint x="230" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="279" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-27" value="未关注的考生" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#FF0B03;fontSize=14;" connectable="0" vertex="1" parent="jaihn0EKF0fuKa9CYaYA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-29" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="jaihn0EKF0fuKa9CYaYA-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="760" as="sourcePoint" />
+            <mxPoint x="600" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="525" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-30" value="已关注" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#000000;fontSize=14;" connectable="0" vertex="1" parent="jaihn0EKF0fuKa9CYaYA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-31" target="jaihn0EKF0fuKa9CYaYA-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-31" value="考生回复关键词&lt;br style=&quot;font-size: 14px;&quot;&gt;“培训”" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="235" y="950" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-35" target="jaihn0EKF0fuKa9CYaYA-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-35" value="收到“培训视频”的内容推送&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ff0d0d&quot; style=&quot;font-size: 14px;&quot;&gt;（推文2）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="449" y="950" width="153" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-36" target="jaihn0EKF0fuKa9CYaYA-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-36" value="收到“培训视频”的内容推送&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 13, 13); font-size: 14px;&quot;&gt;（推文2）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="218.5" y="1050" width="153" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-39" value="考生观看视频，进行培训&lt;br style=&quot;font-size: 14px;&quot;&gt;在视频下放留言，提出问题" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1170" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-42" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;推文1&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;报名+操作的内容文章&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;包含 培训报名链接，报名须知&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ff0d0d&quot; style=&quot;font-size: 14px;&quot;&gt;包含 公众号操作须知，回复关键词等&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ff0d0d&quot; style=&quot;font-size: 14px;&quot;&gt;包含答疑时间等&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="750" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-43" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;推文2&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;公众号的页面模板，&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;视频文章合集，10集的培训视频内容&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;一共8条（10集内容有2集合并一下）&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0D0D;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="940" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0A0A;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-44" target="jaihn0EKF0fuKa9CYaYA-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-44" value="群发短信给报名考生" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="357.51" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-45" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;微信公众号操作&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;公众号操作流程&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="25" y="700" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-46" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4.99" y="670" as="sourcePoint" />
+            <mxPoint x="855.01" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-47" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="1310" as="sourcePoint" />
+            <mxPoint x="860" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-48" value="&lt;h1&gt;考试流程&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1350" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0A0A;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-49" target="jaihn0EKF0fuKa9CYaYA-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-49" value="通过链接，访问问卷星的考试页面" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="357.51" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-50" value="考试页面要做限制与否？&lt;br style=&quot;font-size: 14px;&quot;&gt;只要有链接，都能进入考试，还是只有报名的才进入考试？&lt;br style=&quot;font-size: 14px;&quot;&gt;目前按照：提供手机号的作为识别" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1495" width="201.88" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-52" value="考生答题" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="357.51" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FF0A0A;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-53" target="jaihn0EKF0fuKa9CYaYA-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="1770" />
+              <mxPoint x="225" y="1590" />
+              <mxPoint x="310" y="1590" />
+              <mxPoint x="310" y="1530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0A0A;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-53" target="jaihn0EKF0fuKa9CYaYA-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-53" value="考试不合格&lt;br style=&quot;font-size: 14px;&quot;&gt;第一次失败" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0A0A;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-54" target="jaihn0EKF0fuKa9CYaYA-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-54" value="考试合格" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-55" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0A0A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-52" target="jaihn0EKF0fuKa9CYaYA-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1650" as="sourcePoint" />
+            <mxPoint x="320" y="1650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-56" value="成绩80分以下" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#FF0A0A;fontSize=14;" connectable="0" vertex="1" parent="jaihn0EKF0fuKa9CYaYA-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-57" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF0A0A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-52" target="jaihn0EKF0fuKa9CYaYA-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1640" as="sourcePoint" />
+            <mxPoint x="590" y="1640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="543" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-58" value="成绩80分以上" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontColor=#FF0A0A;fontSize=14;" connectable="0" vertex="1" parent="jaihn0EKF0fuKa9CYaYA-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-59" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;关于考试试题&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;一次考试50道试题，每题2分&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;满分100分&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="29" y="1480" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-61" value="重新参加考试" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1650" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0A0A;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-62" target="jaihn0EKF0fuKa9CYaYA-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-62" value="跳转页面&lt;br style=&quot;font-size: 14px;&quot;&gt;考试通过，考试通过电子证书" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="482" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0A0A;fontSize=14;" edge="1" parent="1" source="jaihn0EKF0fuKa9CYaYA-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-64" value="2次都不合格&lt;br style=&quot;font-size: 14px;&quot;&gt;考试结束" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-67" value="关闭页面" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-70" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;答疑时间&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;线上答疑时间：&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;5月9日晚&amp;nbsp; &amp;nbsp; &amp;nbsp;19:00 - 20:00（拟）&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;5月10日晚&amp;nbsp; &amp;nbsp;19:00 - 20:00（拟）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0A0A;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-71" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;答疑时间&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;线上答疑时间：&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;5月9日晚&amp;nbsp; &amp;nbsp; &amp;nbsp;19:00 - 20:00（拟）&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;5月10日晚&amp;nbsp; &amp;nbsp;19:00 - 20:00（拟）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FF0A0A;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="910" width="225" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-73" value="&lt;font color=&quot;#000000&quot;&gt;5月10日群发带考试链接的短信&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0B03;" vertex="1" parent="1">
+          <mxGeometry x="366" y="600" width="264" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-74" value="页面1：报名须知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="205" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-75" value="页面2：信息填写" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="310" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-76" value="页面3：培训事项告知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="405" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jaihn0EKF0fuKa9CYaYA-77" value="&lt;h1&gt;公众号建组&lt;/h1&gt;&lt;p&gt;建组群发&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="631.25" y="1110" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
